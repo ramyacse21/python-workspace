@@ -1,6 +1,5 @@
 # #1
 # name="ramya"
-# #i want to print my name 1st letter in uppercase 2nd letter in lowercase 3rd letter in uppercase and so on
 # result = 0
 # for i in range(len(name)):
 #     if i % 2 == 0:
@@ -218,4 +217,5 @@ for i in range(length,0,-1):
 # r a m y
 # r a m
 # r a
+
 # r
